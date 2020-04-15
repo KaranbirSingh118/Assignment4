@@ -1,0 +1,9 @@
+{
+  "dinner": 
+	[
+		{"food": "Chicken briyani","price": "10.5","calories":"180"},
+		{"food": "Egg curry","price": "9","calories":"150"},
+		{"food": "Chickpeas","price": "6.0","calories":"150"},
+		{"food": "Okra and chapati","price": "8.99","calories":"220"}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "lunch": 
+	[
+		{"food": "Omurice","price": "8.5","calories":"120"},
+		{"food": "Baconator","price": "6.5","calories":"200"},
+		{"food": "Kheer","price": "6.0","calories":"150"},
+		{"food": "Curry","price": "7.9","calories":"170"}
+  ]
+}

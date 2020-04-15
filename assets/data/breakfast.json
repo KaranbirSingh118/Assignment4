@@ -1,0 +1,9 @@
+{
+  "breakfast": 
+	[
+		{"food": "Omlette","price": "3.5","calories":"120"},
+		{"food": "Toast","price": "2.5","calories":"90"},
+		{"food": "Aloo de pranthe","price": "6.0","calories":"190"},
+		{"food": "Poutine","price": "7.9","calories":"220"}
+  ]
+}
